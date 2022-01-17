@@ -6,7 +6,7 @@ Le esercitazioni riguardano i seguenti argomenti:
 
 Esercitazione 1: generatore di numeri pseudo-random e CLT
 
-Esercitazione 2: integrazione Monte Carlo, Importance sampling e processi di Markov
+Esercitazione 2: integrazione Monte Carlo, importance sampling e processi di Markov
 
 Esercitazione 3: Teoria di Black-Scholes
 
